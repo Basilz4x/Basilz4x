@@ -2,7 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/basilz4x/basilz4x/output/snake.svg" alt="Snake animation" />
 
 ###
 
